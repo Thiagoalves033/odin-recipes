@@ -1,0 +1,33 @@
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.mega {
+    font-size: 35px;
+    color: green;
+}
+
+p,
+ul,
+ol {
+    font-size: 20px;
+}
+
+p {
+    background-color: beige;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.ingredients {
+    background-color:rgb(255, 242, 223);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif;
+}
+
+.steps {
+    background-color: bisque;
+    font-family:'Times New Roman', Arial, sans-serif;
+}
